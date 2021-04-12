@@ -3,7 +3,6 @@
  * @author: waltermolina
  * @version: 20210405.1
  * @see <a href = "http://github.com/" /> Repositorio en Github </a>
- * 
  */
 package tasksapp; //carpeta 
 
